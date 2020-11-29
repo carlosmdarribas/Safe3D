@@ -20,13 +20,12 @@
 		54F2BAA02572DBF700CBA83C /* ViewController+Starscream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F2BA9F2572DBF700CBA83C /* ViewController+Starscream.swift */; };
 		54F2BAA42572DD1F00CBA83C /* Methods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F2BAA32572DD1F00CBA83C /* Methods.swift */; };
 		54F2BAA7257312AC00CBA83C /* HistoricTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F2BAA6257312AC00CBA83C /* HistoricTableViewController.swift */; };
-		54F2BAB02573A9A300CBA83C /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BAAA2573A9A000CBA83C /* index.html */; };
 		54F2BAB12573A9A300CBA83C /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BAAB2573A9A100CBA83C /* assets */; };
-		54F2BAB22573A9A300CBA83C /* login.html in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BAAC2573A9A100CBA83C /* login.html */; };
-		54F2BAB32573A9A300CBA83C /* package-lock.json in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BAAD2573A9A200CBA83C /* package-lock.json */; };
-		54F2BAB42573A9A300CBA83C /* node_modules in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BAAE2573A9A200CBA83C /* node_modules */; };
-		54F2BAB52573A9A300CBA83C /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BAAF2573A9A200CBA83C /* package.json */; };
-		54F2BAB92573A9D300CBA83C /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BAB82573A9D300CBA83C /* index.js */; };
+		54F2BAC02573AB2400CBA83C /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BABB2573AB2100CBA83C /* package.json */; };
+		54F2BAC22573AB2400CBA83C /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BABD2573AB2200CBA83C /* index.html */; };
+		54F2BAC32573AB2400CBA83C /* login.html in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BABE2573AB2300CBA83C /* login.html */; };
+		54F2BAC42573AB2400CBA83C /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BABF2573AB2300CBA83C /* assets */; };
+		54F2BACB2573AB4300CBA83C /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = 54F2BACA2573AB4300CBA83C /* index.js */; };
 		A66FB28B1EF69856A0507CDC /* Pods_Safe3D.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A5334C7020797E5621D64D2 /* Pods_Safe3D.framework */; };
 /* End PBXBuildFile section */
 
@@ -47,13 +46,12 @@
 		54F2BA9F2572DBF700CBA83C /* ViewController+Starscream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+Starscream.swift"; sourceTree = "<group>"; };
 		54F2BAA32572DD1F00CBA83C /* Methods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Methods.swift; sourceTree = "<group>"; };
 		54F2BAA6257312AC00CBA83C /* HistoricTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoricTableViewController.swift; sourceTree = "<group>"; };
-		54F2BAAA2573A9A000CBA83C /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		54F2BAAB2573A9A100CBA83C /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
-		54F2BAAC2573A9A100CBA83C /* login.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = login.html; sourceTree = "<group>"; };
-		54F2BAAD2573A9A200CBA83C /* package-lock.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "package-lock.json"; sourceTree = "<group>"; };
-		54F2BAAE2573A9A200CBA83C /* node_modules */ = {isa = PBXFileReference; lastKnownFileType = folder; path = node_modules; sourceTree = "<group>"; };
-		54F2BAAF2573A9A200CBA83C /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
-		54F2BAB82573A9D300CBA83C /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		54F2BABB2573AB2100CBA83C /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		54F2BABD2573AB2200CBA83C /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		54F2BABE2573AB2300CBA83C /* login.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = login.html; sourceTree = "<group>"; };
+		54F2BABF2573AB2300CBA83C /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = assets; path = ../../../../Downloads/web_safe3d/assets; sourceTree = "<group>"; };
+		54F2BACA2573AB4300CBA83C /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
 		5A5334C7020797E5621D64D2 /* Pods_Safe3D.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Safe3D.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C0A9F1A21DF5E80570A0880 /* Pods-Safe3D.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Safe3D.debug.xcconfig"; path = "Target Support Files/Pods-Safe3D/Pods-Safe3D.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -139,11 +137,10 @@
 			isa = PBXGroup;
 			children = (
 				54F2BAAB2573A9A100CBA83C /* assets */,
-				54F2BAAA2573A9A000CBA83C /* index.html */,
-				54F2BAAC2573A9A100CBA83C /* login.html */,
-				54F2BAAE2573A9A200CBA83C /* node_modules */,
-				54F2BAAD2573A9A200CBA83C /* package-lock.json */,
-				54F2BAAF2573A9A200CBA83C /* package.json */,
+				54F2BABF2573AB2300CBA83C /* assets */,
+				54F2BABD2573AB2200CBA83C /* index.html */,
+				54F2BABE2573AB2300CBA83C /* login.html */,
+				54F2BABB2573AB2100CBA83C /* package.json */,
 			);
 			path = Web;
 			sourceTree = "<group>";
@@ -151,7 +148,7 @@
 		54F2BAB72573A9C800CBA83C /* Server */ = {
 			isa = PBXGroup;
 			children = (
-				54F2BAB82573A9D300CBA83C /* index.js */,
+				54F2BACA2573AB4300CBA83C /* index.js */,
 			);
 			path = Server;
 			sourceTree = "<group>";
@@ -232,16 +229,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54F2BAB02573A9A300CBA83C /* index.html in Resources */,
-				54F2BAB22573A9A300CBA83C /* login.html in Resources */,
+				54F2BAC32573AB2400CBA83C /* login.html in Resources */,
 				54F2BA722572D7BA00CBA83C /* art.scnassets in Resources */,
-				54F2BAB32573A9A300CBA83C /* package-lock.json in Resources */,
-				54F2BAB52573A9A300CBA83C /* package.json in Resources */,
 				54F2BA7C2572D7BE00CBA83C /* LaunchScreen.storyboard in Resources */,
-				54F2BAB92573A9D300CBA83C /* index.js in Resources */,
+				54F2BAC22573AB2400CBA83C /* index.html in Resources */,
+				54F2BAC42573AB2400CBA83C /* assets in Resources */,
+				54F2BACB2573AB4300CBA83C /* index.js in Resources */,
 				54F2BAB12573A9A300CBA83C /* assets in Resources */,
+				54F2BAC02573AB2400CBA83C /* package.json in Resources */,
 				54F2BA792572D7BE00CBA83C /* Assets.xcassets in Resources */,
-				54F2BAB42573A9A300CBA83C /* node_modules in Resources */,
 				54F2BA772572D7BA00CBA83C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
